@@ -1,0 +1,12 @@
+{
+    "name": "kidozen/rest-api-php-sample",
+    "require": {
+        "guzzlehttp/guzzle": "4.*"
+    },
+    "authors": [
+        {
+            "name": "JC Ivancevich",
+            "email": "juan.ivancevich@kidozen.com"
+        }
+    ]
+}
